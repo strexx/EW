@@ -6,7 +6,7 @@
 
 
 //Pins
-int pinLdr = A0;
+const int pinLdr = A0;
 int exposure = 0;
 
 
